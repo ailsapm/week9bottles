@@ -1,4 +1,4 @@
-//it was displaying fine in console.log but cannot get it to print out correctly in allocated div on html
+
 
 function showlyrics (){
 

@@ -1,5 +1,3 @@
-
-
 function showlyrics (){
 
 for (var numBtls = 99; numBtls >= 0; numBtls--) {
